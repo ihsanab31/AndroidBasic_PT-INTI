@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d96673ed8c85c59fc58a97487fbf6e65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0157f7b4137da5137760fa4d128e4f33\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d875d20069efa943af9763b9b9f68f26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\731c486df2ca06532e0f8d202b2fe221\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bdb1587ce3d23faf1c433a80bcd3386c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5dbc6fd855c389bc5ad3ed6047b57ac1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\10ce934e4ffe3ca8545180a376ec769e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\237927fea4a698ab4067332add1c9f4b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3612e15ffb25e28a2e2e86772dfedbdb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\428f9d7d61e784f3e566d3e68b3b0536\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d611833d166745c086c26ee5634def54\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a0b5842eaf86eb447f1a503f7e040cc5\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0157f7b4137da5137760fa4d128e4f33\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0157f7b4137da5137760fa4d128e4f33\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.ycreation.ihsan.pelatihan.MainActivity
+ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:12:9-16:20
+	android:theme
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:13:13-41
+activity#com.ycreation.ihsan.pelatihan.CapcinActivity
+ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:label
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:18:13-39
+	android:name
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:17:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml
+INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d96673ed8c85c59fc58a97487fbf6e65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d96673ed8c85c59fc58a97487fbf6e65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0157f7b4137da5137760fa4d128e4f33\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0157f7b4137da5137760fa4d128e4f33\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d875d20069efa943af9763b9b9f68f26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d875d20069efa943af9763b9b9f68f26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\731c486df2ca06532e0f8d202b2fe221\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\731c486df2ca06532e0f8d202b2fe221\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bdb1587ce3d23faf1c433a80bcd3386c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bdb1587ce3d23faf1c433a80bcd3386c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5dbc6fd855c389bc5ad3ed6047b57ac1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5dbc6fd855c389bc5ad3ed6047b57ac1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\10ce934e4ffe3ca8545180a376ec769e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\10ce934e4ffe3ca8545180a376ec769e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\237927fea4a698ab4067332add1c9f4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\237927fea4a698ab4067332add1c9f4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3612e15ffb25e28a2e2e86772dfedbdb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3612e15ffb25e28a2e2e86772dfedbdb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\428f9d7d61e784f3e566d3e68b3b0536\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\428f9d7d61e784f3e566d3e68b3b0536\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d611833d166745c086c26ee5634def54\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d611833d166745c086c26ee5634def54\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a0b5842eaf86eb447f1a503f7e040cc5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a0b5842eaf86eb447f1a503f7e040cc5\AndroidManifest.xml:20:5-44
+INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml
+INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml
+		ADDED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Document\kerja egs\Pelatihan\app\src\main\AndroidManifest.xml

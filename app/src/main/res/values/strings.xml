@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pelatihan</string>
+    <string name="weather_app">Weather App</string>
+    <string name="weather_apps">Weather Apps</string>
+    <string name="today_agustus_06">Today, Agustus 06</string>
+    <string name="default_suhu">26°</string>
+    <string name="default_suhu_two">20°</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="jam_one">12.00</string>
+    <string name="jam_two">13.00</string>
+    <string name="your_name">Your Name</string>
+    <string name="price_5">Price $5</string>
+    <string name="nol">1</string>
+    <string name="plus">+</string>
+    <string name="min">-</string>
+    <string name="topping_this_day">Taste Today</string>
+    <string name="kaju">Kaju</string>
+    <string name="jeruk">Orange Flavor</string>
+    <string name="melon">Melon Flavor</string>
+    <string name="mango_flavor">Mango Flavor</string>
+    <string name="order_now">Order Now</string>
+    <string name="default_order">Name : Ihsan Abdurahman  \nOrder Amount : 1 \nTaste : Keju \nThank You</string>
+    <string name="clear">Clear</string>
+    <string name="ihsan_abdurahman">Ihsan Abdurahman</string>
+</resources>

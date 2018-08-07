@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/dimen10dp"
+    tools:context=".CapcinActivity">
+
+    <EditText
+        android:id="@+id/et_nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen10dp"
+        android:hint="@string/your_name" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen10dp"
+        android:text="@string/price_5"
+        android:textSize="@dimen/text30sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_plus"
+            android:layout_width="@dimen/dimen50dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/dimen10dp"
+            android:text="@string/plus"
+            android:textSize="@dimen/text20sp" />
+
+        <TextView
+            android:id="@+id/txt_jumlah"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="@string/nol"
+            android:textSize="@dimen/text27sp" />
+
+        <Button
+            android:id="@+id/btn_min"
+            android:layout_width="@dimen/dimen50dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen10dp"
+            android:text="@string/min"
+            android:textSize="@dimen/text20sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen10dp"
+        android:text="@string/topping_this_day"
+        android:textSize="@dimen/text27sp" />
+
+
+
+    <CheckBox
+        android:id="@+id/cb_jeruk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/jeruk"
+        android:textSize="@dimen/text20sp" />
+
+    <CheckBox
+        android:id="@+id/cb_melon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/melon"
+        android:textSize="@dimen/text20sp" />
+
+    <CheckBox
+        android:id="@+id/cb_manggo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mango_flavor"
+        android:textSize="@dimen/text20sp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_order"
+        android:text="@string/order_now"
+        android:layout_marginTop="@dimen/dimen10dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_hasil"
+        android:text="@string/default_order"
+        android:visibility="gone"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_clear"
+        android:text="@string/clear"
+        android:layout_marginTop="@dimen/dimen10dp"
+        android:visibility="gone"/>
+</LinearLayout>

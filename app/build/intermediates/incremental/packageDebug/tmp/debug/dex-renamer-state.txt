@@ -1,0 +1,4 @@
+#Sat Aug 04 19:24:51 ICT 2018
+base.0=D\:\\Document\\kerja egs\\Pelatihan\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
